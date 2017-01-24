@@ -2,7 +2,10 @@
 logs
 *.log
 npm-debug.log*
+
+# Extra Files
 .DS_Store
+.eslintrc.js
 
 # Runtime data
 pids
