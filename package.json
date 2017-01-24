@@ -2,7 +2,7 @@
   "name": "poly",
   "version": "0.0.1",
   "description": "Test project for CMSI 488",
-  "main": "index.js",
+  "main": "polynomial.js",
   "scripts": {
     "test": "mocha"
   },
@@ -12,7 +12,9 @@
   },
   "keywords": [
     "test",
-    "polynomial"
+    "polynomial",
+    "math",
+    "ohm"
   ],
   "author": "NAnguiano",
   "license": "MIT",
